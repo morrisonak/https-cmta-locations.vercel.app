@@ -7,6 +7,7 @@ function MyApp({ Component, pageProps }: AppProps) {
     <>
       <Head>
         <title>CMTA Locations</title>
+        <meta name="google-site-verification" content="p1EHZSHT0NEX5qMPpa7p9bwXpBrf16dO9IL7QFUtz5c" />
       </Head>
 
   <Component {...pageProps} />
